@@ -58,4 +58,12 @@ At **QuillAudits**, our team comprises seasoned blockchain architects, developer
 - Post-Audit Support: We Offer Assistance for Any Queries or Concerns Arising After the Audit, Along with Exposure Through Social Channels, Free AMAs, and Connection with Developers and Security Experts Through Our Academy Initiative
 - Post-Audit Insurance Coverage: We Provide Insurance for Your Protocol, Ensuring Investor Confidence
 
+### Specialized in RWA Security
+
+As tokenized real-world assets move from pilots to institutional scale, we've built out a dedicated resource set for teams building and auditing RWA protocols:
+
+- [RWA Development Handbook](https://www.quillaudits.com/research/rwa-development): a complete guide to RWA architecture, token standards (ERC-3643, ERC-4626, and more), and jurisdiction-by-jurisdiction regulatory mapping.
+- [Tokenization 101](https://www.quillaudits.com/tokenization-101): pick your asset class and chain to get a recommended token standard, backed by live RWA market data.
+- [RWA Protocol Security Score](https://www.quillaudits.com/rwa-security-score): benchmark your protocol's security posture across 8 risk categories before you stake your reputation on an audit.
+
 Choose QuillAudits for uncompromising security and peace of mind in the world of blockchain and DApps.
